@@ -2,7 +2,7 @@
 - 👀 im interested in electrical engineering, computer science and physics 
 - 🌱 im currently working on arduino projects 
 - 🎵 music is one of my passions 
-also i hate capital letters 
+- i hate capital letters 
 
 <!---
 akiritayofi/akiritayofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
